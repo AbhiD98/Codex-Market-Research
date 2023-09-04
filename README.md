@@ -1,5 +1,8 @@
 # Energy Drink Market Analysis
 This repository contains a comprehensive data analysis project focused on understanding consumer preferences and market strategies for CodeX Energy Drink, a prominent player in the energy drink industry. Using Python's powerful data manipulation libraries like Pandas and NumPy, along with data visualization tools like Matplotlib, this project reveals critical insights that can drive the brand's growth and success.
+  ## 🚀 ** Click On The Below Image To Play The Watch the Dashboard's Video! ** 🎥
+   
+[![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?v=LYCGPud0JZw)
 
 ## Project Overview
 The main objective of this project is to explore the energy drink market and provide actionable recommendations to improve CodeX Energy Drink's market position. The key steps involved in the analysis are:
